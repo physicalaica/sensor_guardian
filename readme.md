@@ -1,18 +1,16 @@
-![CPAI Logo](https://physicalai.ca/assets/logo-cpai.png)
-
 # SensorGuardian
 
 _Offline ROS 2 sensor health diagnostics – an open-source project by the  [Canadian Physical AI Institute (CPAI)](https://physicalai.ca)._
 
 ---
 
-## 🏛️ About CPAI
+## <img src="https://physicalai.ca/assets/logo-cpai.png" width="22" alt="CPAI Logo" /> About CPAI 
 
 The Canadian Physical AI Institute (CPAI) is an open research initiative focused on the critical infrastructure, standards, and tools for robotics and physical AI.
 
 ---
 
-## 🔍 Overview
+## 🔍 Project Overview
 
 **SensorGuardian** analyzes recorded robot sensor data to catch failures that often go unnoticed — until they cause critical malfunctions. It’s a lightweight ROS 2 tool that inspects your sensor streams (camera, LiDAR, IMU, etc.) for silent degradation, timing issues, and data dropouts.
 
